@@ -1,0 +1,12 @@
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/bin/Debug/netcoreapp3.1/Insertion-Sort.deps.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/bin/Debug/netcoreapp3.1/Insertion-Sort.runtimeconfig.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/bin/Debug/netcoreapp3.1/Insertion-Sort.runtimeconfig.dev.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/bin/Debug/netcoreapp3.1/Insertion-Sort.dll
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/bin/Debug/netcoreapp3.1/Insertion-Sort.pdb
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/obj/Debug/netcoreapp3.1/Insertion-Sort.csprojAssemblyReference.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/obj/Debug/netcoreapp3.1/Insertion-Sort.AssemblyInfoInputs.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/obj/Debug/netcoreapp3.1/Insertion-Sort.AssemblyInfo.cs
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/obj/Debug/netcoreapp3.1/Insertion-Sort.csproj.CoreCompileInputs.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/obj/Debug/netcoreapp3.1/Insertion-Sort.dll
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/obj/Debug/netcoreapp3.1/Insertion-Sort.pdb
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Insertion-Sort/obj/Debug/netcoreapp3.1/Insertion-Sort.genruntimeconfig.cache
